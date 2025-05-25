@@ -310,10 +310,14 @@ fun testWishlistFunctionality() {
 
 ## 👨‍💻 Developer Information
 
-**Project Type**: Internship Assignment  
-**Development Time**: 8 Hours  
+**Project Type**: Internship Assignment
+
+**Development Time**: 8 Hours
+
 **Developer**: Rachit Katiyar
+
 **Contact**: rachitkatiyar869@gmail.com
+
 **LinkedIn**: https://www.linkedin.com/in/rachit-katiyar-800378275/
 
 ---
