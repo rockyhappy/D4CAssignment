@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Transparent background to avoid white background issue -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- Simple logo placeholder - replace with your actual logo design -->
+    <group
+        android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:pivotX="54"
+        android:pivotY="54">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,20
+                           C65,20 74,29 74,40
+                           L74,68
+                           C74,79 65,88 54,88
+                           C43,88 34,79 34,68
+                           L34,40
+                           C34,29 43,20 54,20
+                           Z" />
+        <path
+            android:fillColor="@color/bg_neutral"
+            android:pathData="M54,26
+                           C61,26 68,33 68,40
+                           L68,68
+                           C68,75 61,82 54,82
+                           C47,82 40,75 40,68
+                           L40,40
+                           C40,33 47,26 54,26
+                           Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,32
+                           A8,8 0 0,1 62,40
+                           A8,8 0 0,1 54,48
+                           A8,8 0 0,1 46,40
+                           A8,8 0 0,1 54,32
+                           Z" />
+    </group>
+</vector>
