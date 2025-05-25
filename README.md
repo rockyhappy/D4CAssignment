@@ -311,10 +311,10 @@ fun testWishlistFunctionality() {
 ## 👨‍💻 Developer Information
 
 **Project Type**: Internship Assignment  
-**Development Time**: [Add your development time]  
-**Developer**: [Your Name]  
-**Contact**: [Your Email]  
-**LinkedIn**: [Your LinkedIn Profile]
+**Development Time**: 8 Hours  
+**Developer**: Rachit Katiyar
+**Contact**: rachitkatiyar869@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/rachit-katiyar-800378275/
 
 ---
 
