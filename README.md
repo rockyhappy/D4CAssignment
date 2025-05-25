@@ -35,17 +35,22 @@ internship assignment to showcase modern Android development skills.
 
 > **Add your video demonstration here**
 
-[![Video Demo](https://img.shields.io/badge/📹-Watch%20Demo-red.svg?style=for-the-badge)](your-video-link-here)
+
+[![Video Demo](https://img.shields.io/badge/📹-Watch%20Demo-red.svg?style=for-the-badge)](https://github.com/user-attachments/assets/399b8278-757a-4938-b2b3-d04cc8b71738)
 
 ---
 
 ## 📸 Screenshots
 
-> **Add your app screenshots here**
 
-| Home Screen | Wishlist View | Cart View | Search Results |
-|-------------|---------------|-----------|----------------|
-| ![Home](screenshots/home.png) | ![Wishlist](screenshots/wishlist.png) | ![Cart](screenshots/cart.png) | ![Search](screenshots/search.png) |
+<img src="https://github.com/user-attachments/assets/08dc6cd5-93ee-4003-a6a1-92da31c03400" alt="News App Screenshot 1" width="150" >
+<img src="https://github.com/user-attachments/assets/8dfc9b42-a635-4e3f-b485-891ecb40ba26" alt="News App Screenshot 1" width="150" >
+<img src="https://github.com/user-attachments/assets/5d446fe8-8f2a-4f27-9d2b-97108752b48c" alt="News App Screenshot 1" width="150" >
+<img src="https://github.com/user-attachments/assets/d5409ca8-9db9-4138-aa16-dc6f3ce85643" alt="News App Screenshot 1" width="150" >
+<img src="https://github.com/user-attachments/assets/d0e0fcf5-6bba-40c4-8b2c-51092e6f6641" alt="News App Screenshot 1" width="150" >
+<img src="https://github.com/user-attachments/assets/baf0e1b5-6b06-4665-aff8-88b601619cba" alt="News App Screenshot 1" width="150" >
+<img src="https://github.com/user-attachments/assets/7fd8cca5-1acb-4d4e-bb15-5d78da23848d" alt="News App Screenshot 1" width="150" >
+<img src="https://github.com/user-attachments/assets/66739500-6c8d-4616-a523-b000daad212d" alt="News App Screenshot 1" width="150" >
 
 ---
 
